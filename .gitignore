@@ -1,0 +1,33 @@
+.env
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variable files
+.env
+*.env
+
+# IDE/editor configuration files
+.vscode/
+.idea/
+*.swp
+
+# Packaging files
+*.egg-info/
+dist/
+build/
+
+# Jupyter runtime files
+*.json
+*.log
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
